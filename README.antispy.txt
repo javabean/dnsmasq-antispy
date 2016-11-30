@@ -17,6 +17,8 @@
 # * F-Secure AdBlocker	https://www.f-secure.com/web/home/adblocker
 # * Spam404		http://www.spam404.com
 # * AdAway		https://adaway.org/hosts.txt
+# * EasyList            https://easylist.to
+# * Adguard             https://adguard.com
 # * my own entries, mainly focused on mobile applications :-)
 #
 # To use:
