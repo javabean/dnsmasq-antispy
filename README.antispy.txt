@@ -14,12 +14,10 @@
 # * BlockParty		https://github.com/krishkumar/BlockParty
 # * Ka-Block!		http://kablock.com
 # * RequestPolicy	https://requestpolicycontinued.github.io
-# * F-Secure AdBlocker	https://www.f-secure.com/web/home/adblocker
 # * Spam404		http://www.spam404.com
 # * AdAway		https://adaway.org/hosts.txt
 # * EasyList		https://easylist.to
 # * Adguard		https://adguard.com
-# * Protector		http://scaleapp.net/
 # * my own entries, mainly focused on mobile applications :-)
 #
 # To use:
