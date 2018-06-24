@@ -3,6 +3,8 @@
 server=/www.googleadservices.com/
 # https://www.googleapis.com/adsmeasurement/v1/measurement/transmit
 #server=/googleapis.com/
+server=/firebasedynamiclinks-ipv4.googleapis.com/
+server=/firebasedynamiclinks-ipv6.googleapis.com/
 server=/googletagmanager.com/
 server=/googletagservices.com/
 # https://play.googleapis.com/log
