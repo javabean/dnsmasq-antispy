@@ -17,6 +17,7 @@ server=/ads.youtube.com/
 server=/doubleclick.com/
 #server=/ad.doubleclick.net/
 #server=/g.doubleclick.net/
+#server=/accounts.doubleclick.net/
 server=/doubleclick.net/
 server=/google-analytics.com/
 server=/www-google-analytics.l.google.com/
