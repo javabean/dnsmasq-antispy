@@ -24,5 +24,6 @@ server=/www-google-analytics.l.google.com/
 server=/ssl-google-analytics.l.google.com/
 server=/video-stats.video.google.com/
 server=/adservice.google.com/
+server=/analytics.google.com/
 server=/googlesyndication.com/
 
