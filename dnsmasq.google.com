@@ -13,6 +13,7 @@ server=/googletagservices.com/
 # https://growth-pa.googleapis.com/v1/getpromos?prettyPrint=false&key=
 #server=/growth-pa.googleapis.com/
 server=/iid.googleapis.com/
+server=/imasdk.googleapis.com/
 server=/ads.youtube.com/
 server=/doubleclick.com/
 #server=/ad.doubleclick.net/
