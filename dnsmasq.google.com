@@ -31,4 +31,6 @@ server=/video-stats.video.google.com/
 server=/adservice.google.com/
 server=/analytics.google.com/
 server=/googlesyndication.com/
+server=/jmt17.google.com/
+server=/app-measurement.com/
 
