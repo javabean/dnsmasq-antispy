@@ -33,4 +33,10 @@ server=/analytics.google.com/
 server=/googlesyndication.com/
 server=/jmt17.google.com/
 server=/app-measurement.com/
+# https://www.google.com/afs/ads/i/webview.html
+# https://www.google.com/adsense/search/ads.js
+#server=/www.google.com/
+# https://www.google.fr/afs/ads?q=...
+# https://www.google.fr/adsense/search/ads.js
+#server=/www.google.fr/
 
