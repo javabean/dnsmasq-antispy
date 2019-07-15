@@ -39,4 +39,6 @@ server=/app-measurement.com/
 # https://www.google.fr/afs/ads?q=...
 # https://www.google.fr/adsense/search/ads.js
 #server=/www.google.fr/
+server=/csi.gstatic.com/
+server=/metric.gstatic.com/
 
