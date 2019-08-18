@@ -5,6 +5,7 @@ server=/www.googleadservices.com/
 #server=/googleapis.com/
 server=/firebasedynamiclinks-ipv4.googleapis.com/
 server=/firebasedynamiclinks-ipv6.googleapis.com/
+server=/firebaselogging.googleapis.com/
 server=/googletagmanager.com/
 server=/googletagservices.com/
 # https://play.googleapis.com/log
