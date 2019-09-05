@@ -42,4 +42,7 @@ server=/app-measurement.com/
 #server=/www.google.fr/
 server=/csi.gstatic.com/
 server=/metric.gstatic.com/
+server=/settings.crashlytics.com/
+server=/e.crashlytics.com/
+server=/reports.crashlytics.com/
 
