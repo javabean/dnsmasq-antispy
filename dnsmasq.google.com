@@ -32,6 +32,7 @@ server=/ssl-google-analytics.l.google.com/
 server=/video-stats.video.google.com/
 server=/adservice.google.com/
 server=/analytics.google.com/
+server=/mail-ads.google.com/
 server=/googlesyndication.com/
 server=/jmt17.google.com/
 server=/app-measurement.com/
