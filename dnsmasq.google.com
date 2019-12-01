@@ -1,6 +1,6 @@
 # Google software
 
-server=/www.googleadservices.com/
+server=/googleadservices.com/
 # https://www.googleapis.com/adsmeasurement/v1/measurement/transmit
 #server=/googleapis.com/
 server=/firebasedynamiclinks-ipv4.googleapis.com/
