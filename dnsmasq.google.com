@@ -7,6 +7,7 @@ server=/firebasedynamiclinks-ipv4.googleapis.com/
 server=/firebasedynamiclinks-ipv6.googleapis.com/
 server=/firebaseremoteconfig.googleapis.com/
 server=/firebaselogging.googleapis.com/
+server=/firebaselogging-pa.googleapis.com/
 server=/googletagmanager.com/
 server=/googletagservices.com/
 # https://play.googleapis.com/log
