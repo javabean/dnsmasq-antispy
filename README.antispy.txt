@@ -18,6 +18,7 @@
 # * AdAway		https://adaway.org/hosts.txt
 # * EasyList		https://easylist.to
 # * Adguard		https://adguard.com
+# * NextDNS		https://github.com/nextdns/cname-cloaking-blocklist
 # * my own entries, mainly focused on mobile applications :-)
 #
 # To use:

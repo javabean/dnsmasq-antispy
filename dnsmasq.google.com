@@ -54,4 +54,5 @@ server=/metric.gstatic.com/
 server=/settings.crashlytics.com/
 server=/e.crashlytics.com/
 server=/reports.crashlytics.com/
+server=/weave-logsink.nest.com/
 
