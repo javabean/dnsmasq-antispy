@@ -6,7 +6,6 @@
 # * Peter Lowe		https://pgl.yoyo.org/adservers/
 # * Dan Pollock		http://someonewhocares.org/hosts/
 # * MVPs.org		http://winhelp2002.mvps.org/
-# * hpHosts (ad-servers)	http://hosts-file.net
 # * Disconnect		https://disconnect.me
 # * Ghostery		https://ghostery.com
 # * Shalla (tracker)	http://www.shallalist.de
