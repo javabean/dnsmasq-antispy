@@ -6,6 +6,7 @@ server=/googleadservices.com/
 server=/firebasedynamiclinks-ipv4.googleapis.com/
 server=/firebasedynamiclinks-ipv6.googleapis.com/
 server=/firebaseremoteconfig.googleapis.com/
+server=/firebase-settings.crashlytics.com/
 server=/firebaselogging.googleapis.com/
 server=/firebaselogging-pa.googleapis.com/
 server=/firebaseinstallations.googleapis.com/
