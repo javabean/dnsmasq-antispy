@@ -42,6 +42,7 @@ server=/adservice.google.com/
 server=/analytics.google.com/
 server=/mail-ads.google.com/
 server=/googleadapis.l.google.com/
+# This blocks CNAME fonts.gstatic.com...
 server=/gstaticadssl.l.google.com/
 server=/googlesyndication.com/
 server=/jmt17.google.com/
