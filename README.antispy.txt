@@ -27,5 +27,5 @@
 # * service dnsmasq restart
 # and set your devices (computer, tablet, phone, &c.) to use your newly-created DNS server.
 #
-# Please note that although this projet is quite comprehensive, it it nowhere near complete (this is an impossible goal!).
+# Please note that although this project is quite comprehensive, it is nowhere near complete (this is an impossible goal!).
 # If you have a specific application you wish to investigate, drop me an email and we will work out something.
